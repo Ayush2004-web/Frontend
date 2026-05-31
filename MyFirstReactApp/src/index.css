@@ -1,0 +1,10 @@
+ #AB{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+ }
+
+ #A{
+  background-color: beige;
+  color: black;
+   }
