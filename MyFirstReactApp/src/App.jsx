@@ -7,6 +7,7 @@ import ContactUs from "./Pages/ContactUs";
 import Product from "./Pages/Product";
 import Login from "./Pages/LogIn";
 import Registration from "./Pages/Registeration";
+import { AiFillAmazonSquare } from "react-icons/ai";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LogIn from "./Pages/LogIn";
