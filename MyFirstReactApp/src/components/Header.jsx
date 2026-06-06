@@ -8,7 +8,7 @@ function Header() {
         <div className="text-primary fs-3 fw-bold"> <AiFillAmazonSquare /> My Company</div>
 
         <div className="d-flex gap-4">
-          <Link to={"/"}> Home</Link>
+          <Link to={"/"}> Home</Link> 
           <Link to={"/about"}>About</Link>
           <Link to={"/product"}>Product</Link>
           <Link to={"/contact-us"}>ContactUs</Link>

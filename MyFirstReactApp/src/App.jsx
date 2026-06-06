@@ -15,7 +15,7 @@ import LogIn from "./Pages/LogIn";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter> 
         <Header />
 
         <Routes>
