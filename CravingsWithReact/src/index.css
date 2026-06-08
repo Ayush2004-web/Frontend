@@ -1,0 +1,41 @@
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
+
+.container {
+  height: 500px;
+}
+
+
+.card {
+  border-radius: 12px;
+}
+
+.form-control {
+  height: 48px;
+}
+
+.form-control:focus {
+  border-color: #c94b0c;
+  box-shadow: none;
+}
+
+
+.card {
+  border-radius: 10px;
+}
+
+.form-control {
+  height: 50px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #c94b0c;
+}
+
+
